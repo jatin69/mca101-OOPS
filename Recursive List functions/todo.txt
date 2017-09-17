@@ -1,0 +1,55 @@
+Recursive list functions 
+
+conditions -
+1. make all functions using recursion
+2. You do not have to return a list
+3. Dont use a loop
+4. Starting with ascending order only.
+
+
+0. Reverse a list
+logic -
+yet to do
+
+
+1. insert_in_sorted_list.py
+Insert an element in a sorted List from 0 to len(list)
+logic- 
+approach : compare the element to the sorted_list[index]
+If greater, move forward with recursion
+If not, insert it at that position
+If the index reaches to the end of list, append the element
+
+
+2. mysort-del-index-tracking-ins.py
+Sorts a list
+logic -
+finds the anamoly element and its anamoly index
+finds it's correct position in the list
+deletes it from the anamoly index
+and insert at the correct index
+
+
+3. insert_in_sorted_sublist.py
+Insert an element in a sorted sublist from 0 to i
+logic-
+yet to do
+
+4. mysort-del-insert_in_sorted_sublist.py
+sorts the list - cw logic
+Logic-  
+yet to do
+The use this insert_in_sorted_sublist.py
+start from starting, if a problem element is found, delete it from that index and use update_ins to insert it in 0 to i in  sorted manner.
+
+
+5. insertion_sort.py
+Standard insertion sort
+logic - yet to come in class
+yet to do
+actual insertion sort. where starts from last and keeps on copying things. until correct position.
+
+6. find_index_of_min_of_sublist.py
+find the index of least element between the indices 0 to i -
+then later..
+make a function sort-> we find the least element from 0 to i, and swap it with a element a pos[0]

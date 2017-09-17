@@ -1,0 +1,23 @@
+Using id(variable) to display the unique identifier assigned to the variable
+
+Functions are ALSO objects in python unlike c++
+Using print("my func is :", func_name) to display the memrory address assigned to the function
+
+---------
+
+In python
+we have names and objects
+
+
+If the value of 2 variables is same, python may make it efficient in storage,
+By using 2 names, for 2 variables
+but because value is same, they refer to the same object.
+It can be verified using id(var)
+( No absolute surety of this )
+
+
+
+
+
+
+
