@@ -7,13 +7,6 @@ conditions -
 4. Sorting with ascending order only.
 
 
-0. 
-File name : reverse_list.py
-Objective : Reverse a list
-approach  : 
-yet to do
-
-
 INSERTION SORT 
 
 1. 
