@@ -1,0 +1,16 @@
+all
+
+
+1. 
+File name : reverse_list.py
+Objective : Reverse a list
+approach  : 
+yet to do
+
+
+2. Deep copy
+- done
+
+
+3. Flatten List
+- flatten a nested list
