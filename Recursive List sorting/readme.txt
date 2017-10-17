@@ -34,16 +34,18 @@ approach  : compare the element to the sorted_list[index]
     		If the existing element is smaller, insert after it, If greater, insert at that index.
 
 
-4. File name : mysort-del-insert_in_sorted_sublist.py
-   Objective : sorts the list - cw logic
-   Logic 	 : use this insert_in_sorted_sublist.py
-			   start from starting, if a problem element is found, delete it from that index and 
-			   use insert_in_sorted_sublist to insert it in 0 to i in  sorted manner.
+4. 
+File name : mysort-del-insert_in_sorted_sublist.py
+Objective : sorts the list - cw logic
+Logic 	  : use this insert_in_sorted_sublist.py
+			start from starting, if a problem element is found, delete it from that index and 
+			use insert_in_sorted_sublist to insert it in 0 to i in  sorted manner.
 
-5. Filename : insertion_sort_classic.py
-   Objective: Implement Standard insertion sort
-   approach : Find the anamoly index. Start copying elements from index to index+1, 
-   			  until you reach the correct place for anamoly element. Copy anamoly element at the correct place.
+5. 
+Filename : insertion_sort_classic.py
+Objective: Implement Standard insertion sort
+approach : Find the anamoly index. Start copying elements from index to index+1, 
+   		   until you reach the correct place for anamoly element. Copy anamoly element at the correct place.
 
 
 SELECTION SORT
@@ -80,3 +82,9 @@ approach  : We start scanning the list from the start, when an abnormality is fo
 			we then continue this process till the complete list is scanned.
 
 
+BUBBLE SORT
+
+9. 
+File name : bubble_sort.py
+Objective : Implement bubble sort
+approach  : Bubble up the lightest element, repeat until list is sorted. 
