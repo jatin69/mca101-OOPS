@@ -40,12 +40,10 @@ approach  : compare the element to the sorted_list[index]
 			   start from starting, if a problem element is found, delete it from that index and 
 			   use insert_in_sorted_sublist to insert it in 0 to i in  sorted manner.
 
-todo-
-5. insertion_sort_classic.py
-Standard insertion sort
-logic - yet to come in class
-yet to do
-actual insertion sort. where starts from last and keeps on copying things. until correct position.
+5. Filename : insertion_sort_classic.py
+   Objective: Implement Standard insertion sort
+   approach : Find the anamoly index. Start copying elements from index to index+1, 
+   			  until you reach the correct place for anamoly element. Copy anamoly element at the correct place.
 
 
 SELECTION SORT
