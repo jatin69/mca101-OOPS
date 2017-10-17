@@ -4,8 +4,8 @@ all
 1. 
 File name : reverse_list.py
 Objective : Reverse a list
-approach  : 
-yet to do
+approach  : start from index=0 and keep swapping extremes as,
+			index and len(mylist)-1-index. Keep doing it until you reach middle of list.
 
 
 2. Deep copy

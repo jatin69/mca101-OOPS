@@ -34,14 +34,11 @@ approach  : compare the element to the sorted_list[index]
     		If the existing element is smaller, insert after it, If greater, insert at that index.
 
 
-todo-
-piazza hw 8 .. sorting the list recusively
-4. mysort-del-insert_in_sorted_sublist.py
-sorts the list - cw logic
-Logic-  
-yet to do
-The use this insert_in_sorted_sublist.py
-start from starting, if a problem element is found, delete it from that index and use update_ins to insert it in 0 to i in  sorted manner.
+4. File name : mysort-del-insert_in_sorted_sublist.py
+   Objective : sorts the list - cw logic
+   Logic 	 : use this insert_in_sorted_sublist.py
+			   start from starting, if a problem element is found, delete it from that index and 
+			   use insert_in_sorted_sublist to insert it in 0 to i in  sorted manner.
 
 todo-
 5. insertion_sort_classic.py
