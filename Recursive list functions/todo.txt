@@ -14,3 +14,8 @@ approach  : start from index=0 and keep swapping extremes as,
 
 3. Flatten List
 - flatten a nested list
+
+4.
+File name : merge_sorted.py 
+Objective : Merge two sorted Lists Recursively
+- done
